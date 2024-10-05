@@ -1,0 +1,6 @@
+c:\users\erdem\onedrive\belgeler\visual studio 2015\Projects\Case1_MuratYucedag\Case1_MuratYucedag\bin\Debug\Case1_MuratYucedag.exe.config
+c:\users\erdem\onedrive\belgeler\visual studio 2015\Projects\Case1_MuratYucedag\Case1_MuratYucedag\bin\Debug\Case1_MuratYucedag.exe
+c:\users\erdem\onedrive\belgeler\visual studio 2015\Projects\Case1_MuratYucedag\Case1_MuratYucedag\bin\Debug\Case1_MuratYucedag.pdb
+c:\users\erdem\onedrive\belgeler\visual studio 2015\Projects\Case1_MuratYucedag\Case1_MuratYucedag\obj\Debug\Case1_MuratYucedag.csprojResolveAssemblyReference.cache
+c:\users\erdem\onedrive\belgeler\visual studio 2015\Projects\Case1_MuratYucedag\Case1_MuratYucedag\obj\Debug\Case1_MuratYucedag.exe
+c:\users\erdem\onedrive\belgeler\visual studio 2015\Projects\Case1_MuratYucedag\Case1_MuratYucedag\obj\Debug\Case1_MuratYucedag.pdb
